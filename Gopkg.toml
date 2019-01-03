@@ -26,7 +26,7 @@
 
 [[constraint]]
   name = "github.com/evalphobia/logrus_sentry"
-  version = "0.4.2"
+  version = "0.5.1"
 
 [[constraint]]
   branch = "master"
@@ -34,7 +34,7 @@
 
 [[constraint]]
   name = "github.com/sirupsen/logrus"
-  version = "1.0.4"
+  version = "1.2.0"
 
 [[constraint]]
   name = "github.com/stgleb/logrus-logstash-hook"
